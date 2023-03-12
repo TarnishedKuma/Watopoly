@@ -1,0 +1,30 @@
+6
+G
+G
+B
+B
+D
+D
+P
+P
+S
+S
+L
+L
+T
+T
+roll 0 4
+bankrupt
+next
+roll 0 4
+bankrupt
+next
+roll 0 4
+bankrupt
+next
+roll 0 4
+bankrupt
+next
+roll 0 4
+bankrupt
+next
